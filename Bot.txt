@@ -1,0 +1,3 @@
+IP: ISTSMPOP.aternos.me:45490
+Port: 45490 
+Name:24/7 
